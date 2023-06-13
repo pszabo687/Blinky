@@ -1,0 +1,12 @@
+build-idx:
+  generated-by: csolution version 1.7.0
+  csolution: Blinky.csolution.yml
+  cprojects:
+    - cproject: Blinky.cproject.yml
+  cbuilds:
+    - cbuild: Blinky.Debug+AVH.cbuild.yml
+      project: Blinky
+      configuration: .Debug+AVH
+    - cbuild: Blinky.Release+AVH.cbuild.yml
+      project: Blinky
+      configuration: .Release+AVH

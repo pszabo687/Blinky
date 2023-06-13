@@ -1,0 +1,7 @@
+ROOT=.
+TARGET=AVH
+TARGET_CODE=corstone-sse-300-ethos-u55
+INTELLISENSE_BUILDER_NAME[/home/studio/workspace/Blinky]=cmsis-1-5-arm-6-16-0
+DEVICE_ID[/home/studio/workspace/Blinky]=SSE-300-MPS3
+DEVICE_TYPE[/home/studio/workspace/Blinky]=vht
+BUILDER_NAME[/home/studio/workspace/Blinky]=cmsis-1-7-arm-6-16-0
